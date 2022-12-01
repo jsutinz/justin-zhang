@@ -1,9 +1,9 @@
 export default [
     {
         title: '3D Printing / Rapid Prototyping Business',
-        imgUrl: '',
+        imgUrl: '/assets/3dp.png',
         stack: ['Ender 3','Prusa i3Mk3S+','Cura / PrusaSlicer'], 
-        link: 'https://'
+        link: 'https://www.youtube.com/watch?v=b0pkpcD8Ms4'
 
     },
     {
